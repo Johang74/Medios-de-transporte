@@ -1,0 +1,6 @@
+'Leones'
+'Gatito'
+'Pájaro'
+'Serpiente'
+'Hamster'
+'Ratones'
